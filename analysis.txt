@@ -1,0 +1,13 @@
+PHISHING ANALYSIS REPORT
+
+Email Sender: support@paypaI.com
+Risk Level: HIGH
+
+Indicators:
+- Suspicious domain
+- Urgent language
+- Fake link
+- Social engineering attempt
+
+Conclusion:
+This is a phishing email designed to steal credentials.
